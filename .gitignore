@@ -1,0 +1,11 @@
+*.properties
+*.iml
+target/
+dist/
+.idea/
+
+*.JAR
+*.WAR
+*.EAR
+
+*.class
